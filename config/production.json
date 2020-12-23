@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "with-love-from-mordor",
+  "mongoUri": "mongodb+srv://123password:123password@cluster0.w02vl.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
